@@ -1,0 +1,22 @@
+E:\Start Up\TestWindowsApp\TestWindowsApp\bin\Debug\TestWindowsApp.exe.config
+E:\Start Up\TestWindowsApp\TestWindowsApp\bin\Debug\TestWindowsApp.exe
+E:\Start Up\TestWindowsApp\TestWindowsApp\bin\Debug\TestWindowsApp.pdb
+E:\Start Up\TestWindowsApp\TestWindowsApp\obj\Debug\TestWindowsApp.csprojResolveAssemblyReference.cache
+E:\Start Up\TestWindowsApp\TestWindowsApp\obj\Debug\TestWindowsApp.Form1.resources
+E:\Start Up\TestWindowsApp\TestWindowsApp\obj\Debug\TestWindowsApp.Properties.Resources.resources
+E:\Start Up\TestWindowsApp\TestWindowsApp\obj\Debug\TestWindowsApp.csproj.GenerateResource.Cache
+E:\Start Up\TestWindowsApp\TestWindowsApp\obj\Debug\TestWindowsApp.exe
+E:\Start Up\TestWindowsApp\TestWindowsApp\obj\Debug\TestWindowsApp.pdb
+E:\Start Up\TestWindowsApp\TestWindowsApp\bin\Debug\Newtonsoft.Json.dll
+E:\Start Up\TestWindowsApp\TestWindowsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bajay\Source\Repos\WindowsApp\TestWindowsApp\TestWindowsApp\bin\Debug\TestWindowsApp.exe.config
+C:\Users\bajay\Source\Repos\WindowsApp\TestWindowsApp\TestWindowsApp\obj\Debug\TestWindowsApp.exe
+C:\Users\bajay\Source\Repos\WindowsApp\TestWindowsApp\TestWindowsApp\obj\Debug\TestWindowsApp.pdb
+C:\Users\bajay\Source\Repos\WindowsApp\TestWindowsApp\TestWindowsApp\bin\Debug\TestWindowsApp.exe
+C:\Users\bajay\Source\Repos\WindowsApp\TestWindowsApp\TestWindowsApp\bin\Debug\TestWindowsApp.pdb
+C:\Users\bajay\Source\Repos\WindowsApp\TestWindowsApp\TestWindowsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bajay\Source\Repos\WindowsApp\TestWindowsApp\TestWindowsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bajay\Source\Repos\WindowsApp\TestWindowsApp\TestWindowsApp\obj\Debug\TestWindowsApp.csprojResolveAssemblyReference.cache
+C:\Users\bajay\Source\Repos\WindowsApp\TestWindowsApp\TestWindowsApp\obj\Debug\TestWindowsApp.Form1.resources
+C:\Users\bajay\Source\Repos\WindowsApp\TestWindowsApp\TestWindowsApp\obj\Debug\TestWindowsApp.Properties.Resources.resources
+C:\Users\bajay\Source\Repos\WindowsApp\TestWindowsApp\TestWindowsApp\obj\Debug\TestWindowsApp.csproj.GenerateResource.Cache
